@@ -1,1 +1,4 @@
 Makefile
+.asscache
+.gradle/
+build/
