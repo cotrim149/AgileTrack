@@ -10,9 +10,9 @@ dataSource:
     pooled: true
     jmxExport: true
     url: jdbc:mysql://localhost:3306/requirements
-    driverClassName: org.h2.Driver
-    username: sa
-    password:
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password: root
 
 environments:
     development:
